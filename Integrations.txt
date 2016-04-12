@@ -1,0 +1,4 @@
+https://github.com/mesos
+https://github.com/mesosphere/marathon
+https://github.com/mesos/chronos
+https://github.com/lucidworks/banana
